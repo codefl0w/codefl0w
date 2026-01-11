@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" role="img">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <g font-family="monospace"
+     font-size="56"
+     font-weight="700"
+     text-anchor="middle"
+     dominant-baseline="middle">
+
+    <!-- scramble frames -->
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;R7pQ&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;t9Gx&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.15s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;B4mZ&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.30s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;qK2w&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.45s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;N0fP&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.60s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;zL8x&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.75s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;Y3rV&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="0.90s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;uH6s&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="1.05s"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;c5Tn&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="1.20s"/>
+    </text>
+
+    <!-- near miss -->
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;fl9w&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.15s" begin="1.35s"/>
+    </text>
+
+    <!-- pre-final -->
+    <text x="50%" y="50%" fill="#ffffff" opacity="0">&lt;fl0w&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="0.18s" begin="1.50s"/>
+    </text>
+
+    <!-- final: stable, centered, tight brackets -->
+    <text x="50%" y="50%" opacity="0">
+      <tspan fill="#ffffff" dx="-6">&lt;</tspan>
+      <tspan fill="#ff8ff5">fl0w</tspan>
+      <tspan fill="#ffffff" dx="-6">&gt;</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.18s" begin="1.68s" fill="freeze"/>
+    </text>
+
+  </g>
+</svg>
