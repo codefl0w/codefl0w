@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="fl0w.gif" alt="profile animation" />
+  <img src="fl0w.svg" alt="<fl0w>" />
 </p>
