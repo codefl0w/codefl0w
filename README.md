@@ -4,5 +4,6 @@
     alt="<fl0w>"
     width="600"
   />
+  <img src="./assets/line.svg" width="100%" height="2" alt="">
 </p>
-<img src="./assets/divider.svg" width="100%" height="2" alt="">
+
