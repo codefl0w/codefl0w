@@ -5,3 +5,4 @@
     width="600"
   />
 </p>
+<img src="./assets/divider.svg" width="100%" height="2" alt="">
